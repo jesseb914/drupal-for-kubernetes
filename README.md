@@ -68,6 +68,3 @@ For more on the way this project's content changes are handled, see the [pidramb
 
 MIT license.
 
-## Author Information
-
-Created in 2019 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/) and [Ansible for Kubernetes](https://www.ansibleforkubernetes.com).
